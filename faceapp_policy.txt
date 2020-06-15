@@ -1,0 +1,96 @@
+--------------------------Privacy policy---------------------------------
+
+Privacy policy
+
+This app respects and protects the privacy of all users of the service. In order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with the provisions of this privacy policy. However, this application will treat such information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, this application will not disclose or provide such information to third parties without your prior permission. This privacy policy will be updated by the app from time to time. When you agree to the use agreement of this application service, you are deemed to have agreed to the whole content of this privacy policy. This privacy policy is an integral part of the application service use agreement.
+
+I. scope of application
+
+(1) When you log in to the account, the application does not collect personal privacy according to the personal registration information provided by the application;
+
+(2) When you use the function of this software, upload the face picture, template picture, etc;
+
+(3) When you use the application network service or visit the web page of the application platform, the application automatically receives and records the information on your browser and computer, including but not limited to your IP address, browser type, language used, access date and time, software and hardware feature information, web page records required by you and other data;
+
+(4) Personal data of users obtained from business partners through legal channels;
+
+You understand and agree that this privacy policy does not apply to the following information:
+
+Relevant information and data collected by the application, including but not limited to participation activities, transaction information and evaluation details;
+
+Violation of laws or the application rules and the measures the application has taken against you.
+
+(5) The relevant information and data collected by the application, including but not limited to participation activities, transaction information and evaluation details.
+
+II. Data collection
+
+(1) In order to use the functions of our software normally, users need to upload images containing faces for face fusion, i.e. AI face changing, face changing from male to female, or background matting;
+
+(2) When users register our software, they need to provide mobile phones and other information;
+
+(3) In order to provide more suitable ads, we will get the location information of users when they click on the ads to provide better advertising services;
+
+(4) In order to provide more suitable ads, we will get the location information of users when they click on the ads to provide better advertising services;
+
+Information use
+
+(1) When users use this application, they will be prompted to upload photos containing faces, which will be used for face fusion, i.e. AI face changing function. This application will not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your permission in advance, or the third party and the application (including the application associated software developers) Provide services to you individually or jointly, and upon completion of the services, it will be forbidden to access all the materials including those previously accessible to it.
+
+(2) The application also does not allow any third party to collect, edit, sell or distribute your personal information free of charge by any means. If any user of the application platform engages in the above activities, the application has the right to terminate the service agreement with the user immediately upon discovery.
+
+(3) For the purpose of serving users, the application may provide you with information of interest by using your personal information, including but not limited to sending you product and service information, or sharing information with application partners so that they can send you information about their products and services (the latter requires your prior consent).
+
+3. Information disclosure and sharing
+
+In the following cases, the application will disclose your personal information in whole or in part according to your personal will or the provisions of the law:
+
+① Disclose to a third party with your prior consent;
+
+② In order to provide the products and services you require, you must share your personal information with a third party;
+
+③ To disclose to a third party or administrative or judicial organ in accordance with the relevant provisions of the law or the requirements of the administrative or judicial organ;
+
+④ If you violate relevant laws and regulations of China or this application service agreement or relevant rules, you need to disclose them to a third party;
+
+⑤ If you are a qualified intellectual property complainant and have filed a complaint, you should disclose it to the respondent at the request of the respondent, so that both parties can handle possible rights disputes;
+
+⑥ In a transaction created on the application platform, if any party to the transaction fulfills or partially fulfills the transaction obligations and requests for information disclosure, the application has the right to decide to provide the user with necessary information such as the contact information of the counterparty, so as to facilitate the completion of the transaction or the settlement of disputes.
+
+⑦ Other disclosures deemed appropriate by the application according to laws, regulations or website policies.
+
+(IV) information storage, retention and exchange
+
+(1) The information and data collected by this application about you will be saved on this application and / or its associated servers, and these information and data may be transmitted to your country, region or overseas where the information and data collected by this application are located and accessed, stored and displayed overseas
+
+(2) In order to reduce the operation cost of the team, all the images uploaded by users for face fusion (excluding template materials) will be kept on our server for 24 hours, and after 24 hours, these data will be cleaned up, so please know and save the images used by users for face fusion in time.
+
+5. Use of cookies
+
+(1) If you do not refuse to accept cookies, the app will set or access cookies on your computer so that you can log in or use the services or functions of the app platform that depend on cookies. Using cookies in this app can provide you with more thoughtful personalized services, including promotion services.
+
+(2) You have the right to choose to accept or reject cookies. You can refuse to accept cookies by modifying your browser settings. However, if you choose to refuse to accept cookies, you may not be able to log in or use the web services or features of this app that depend on cookies.
+
+(3) This policy is applicable to the information obtained through the cookies set by this application.
+
+Vi. information security
+
+(1) This application account has security protection function. Please keep your user name and password information properly. This application will ensure that your information will not be lost, abused or altered by encrypting the user password and other security measures. In spite of the aforementioned security measures, please note that there is no "perfect security measures" on the information network.
+
+(2) When you use this application network service to conduct online transactions, you inevitably need to contact the counterparty or potential transaction partner
+
+(3) We will not save the user's face image for a long time, so please save the image in time to avoid loss
+
+Seven changes to this Privacy Policy
+
+(1) If we decide to change our privacy policy, we will publish these changes in this policy, on this software developer's website, and where we deem appropriate, so that you can understand how we collect and use your personal information, who can access it, and under what circumstances we will disclose it.
+(2) The software developer reserves the right to modify this policy at any time, so please check it frequently. In case of any significant change to this policy, the software developer will inform it in the form of website notice.
+
+(3) Party B shall disclose its personal information, such as contact information or postal address. Please protect your personal information and provide it to others only when necessary. If you find that your personal information is leaked, especially the user name and password of the application, please contact the customer service of the application immediately so that the application can take corresponding measures.
+
+Will facial data be shared with any third party? -Where will face data be stored?
+Face data will not be shared with any third party; face data is stored in Baidu cloud, and this technology is provided by Baidu cloud.
+For details, please refer to:
+Face fusion: https://ai.baidu.com/tech/face/merge
+Face editing: https://ai.baidu.com/tech/face/editattr
+Face animation: https://ai.baidu.com/tech/imageprocess/selfie_ anime
+Face matting (face segmentation): https://ai.baidu.com/tech/body/seg
