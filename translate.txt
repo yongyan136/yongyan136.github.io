@@ -1,0 +1,11 @@
+Our app will not collect any personal information of you. Please feel free to use it. If you have any questions, please send an email to: yongyan901362932@gmail.com Contact us.
+
+
+
+Our app needs camera permission - cat's ear viewer, magnification.
+
+Our app needs flash permission - cat's ear viewer to turn on the flash automatically in low light.
+
+Our app needs microphone rights - recognize cat language and human voice.
+
+Our app needs SD card storage rights - save animal images.
