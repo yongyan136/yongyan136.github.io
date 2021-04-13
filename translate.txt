@@ -1,3 +1,9 @@
+In the process of using this application, you need to connect to the Internet and call your phone permissions or functions: store read and write permissions, network access permissions, phone status permissions, and you need to collect and use the following information:
+       1. Create the user representation required for the statistical service
+     In order to complete user statistics and analysis, we may need to collect user information: device identification code (such as IMEI, Android ID, device serial number, MAC phone related information), IP, administrative division, mobile phone model
+2.Bug collection and feedback
+     In order to complete bug collection and feedback, we need to collect the information you fill in and upload it to our server.
+
 Our app will not collect any personal information of you. Please feel free to use it. If you have any questions, please send an email to: yongyan901362932@gmail.com Contact us.
 
 
